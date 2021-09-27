@@ -1,4 +1,4 @@
-# challange_001_orderSummary
+# challenge_001_orderSummary
 
 Repository destined for challenges - studies
 
