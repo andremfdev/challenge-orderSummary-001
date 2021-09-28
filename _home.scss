@@ -16,3 +16,37 @@
 .img-hero img {
   border-radius: 2rem 2rem 0 0;
 }
+
+.text {
+  text-align: center;
+  padding: 0px 45px;
+}
+
+.text h1 {
+  font-size: 2.4rem;
+  margin-top: 3.2rem;
+  margin-bottom: 1.6rem;
+  color: $second-color3;
+  font-weight: 900;
+}
+
+.text p {
+  margin-bottom: 1.6rem;
+  line-height: 24px;
+  color: $second-color2;
+  font-weight: 500;
+}
+
+.plan {
+  display: flex;
+  align-items: center;
+  margin: 0px 45px;
+  text-align: center;
+  background-color: $second-color1;
+  padding: 2rem 0;
+  border-radius: 1rem;
+}
+
+.btn-payment {
+  margin-top: 6rem;
+}
