@@ -9,13 +9,26 @@
   font-family: 'Red Hat Display', sans-serif;
 }
 
+.container {
+  width: 100%;
+  max-width: 1246px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
 html {
   font-size: 62.5%;
 }
 
 body {
-  width: 100%;
-  max-width: 1440px;
-  height: 900px;
   background-color: $primary-color1;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  cursor: pointer;
 }
