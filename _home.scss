@@ -28,6 +28,7 @@
 .info-main {
   margin: 0 45px;
 }
+
 .info {
   margin: 0 45px;
   display: flex;
@@ -54,17 +55,19 @@
 .plan {
   display: flex;
   align-items: center;
-  margin-top: 2rem;
+  margin-top: 4rem;
   background-color: $second-color1;
   border-radius: 1rem;
   padding: 0 2rem;
-  .plan .plano {
-    padding-right: 10rem;
-  }
-  .plan .image {
-    padding-top: 1.7rem;
-    padding-bottom: 1.7rem;
-  }
+}
+
+.plan .plano {
+  padding-right: 10rem;
+}
+
+.plan .image {
+  padding-top: 1.7rem;
+  padding-bottom: 1.7rem;
 }
 
 .change p {
@@ -88,7 +91,7 @@
     transition: all 0.3s;
   }
   button:hover {
-    background-color: $second-color2;
+    background-color: $second-color1;
   }
   p {
     margin-top: 2.5rem;
