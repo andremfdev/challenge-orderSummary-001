@@ -12,7 +12,7 @@
   background-color: white;
   width: 100%;
   max-width: 450px;
-  height: 650px;
+  height: 680px;
   position: absolute;
   border-radius: 2rem;
   margin-top: 10.2rem;
@@ -25,8 +25,8 @@
   width: 100%;
 }
 
-.card .info-main {
-  padding: 0 45px;
+.info-main {
+  margin: 0 45px;
 }
 
 .info {
@@ -54,33 +54,36 @@
 .plan {
   display: flex;
   align-items: center;
-  margin-top: 4rem;
+  margin-top: 2.5rem;
   background-color: $second-color1;
   border-radius: 1rem;
-  padding: 0 2rem;
+  padding: 2.5rem 2.7rem;
 }
 
 .plan .plano {
-  padding-right: 10rem;
-}
-
-.plan .image {
-  padding-top: 1.7rem;
-  padding-bottom: 1.7rem;
+  margin-left: 1em;
+  h6 {
+    color: $second-color3;
+    font-weight: 900;
+  }
+  p {
+    color: $second-color2;
+    font-weight: 500;
+  }
 }
 
 .change p {
   text-decoration: underline;
   font-weight: 700;
   color: $primary-color2;
-  margin-left: 2rem;
+  margin-left: 9rem;
 }
 
 .btn-payment {
   margin-top: 3rem;
   text-align: center;
   button {
-    padding: 1.8rem 10rem;
+    padding: 1.5rem 10.2rem;
     border-radius: 1rem;
     background-color: $primary-color2;
     color: $second-color1;
@@ -93,9 +96,10 @@
     background-color: $second-color1;
   }
   p {
-    margin-top: 2.5rem;
+    margin-top: 3rem;
     margin-bottom: 4rem;
     font-weight: 700;
     color: $second-color2;
+    font-size: 1.5rem;
   }
 }
