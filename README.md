@@ -30,3 +30,14 @@ Os usuários devem ser capazes de identificar os pontos de interatividade do res
 - Flexbox
 - CSS Grid
 - Sem o auxílio do FIGMA (Informações mediante pagamento)
+
+### O que eu aprendi
+
+Alguns dos aprendizados e práticas que tive com esse desafio:
+
+- Aprendi a trabalhar por blocos, dando a cada um sua estrutura conforme a ideia do desafio;
+- Pude aprender e aplicar um "container" para as informações dentro do card;
+- Utilizei o SASS para dar mais organização ao projeto;
+- Trabalhei até certo ponto o uso do "absolute" para as imagens do background do corpo da página.
+
+Use esta seção para recapitular alguns de seus principais aprendizados ao trabalhar neste projeto. Escrevê-los e fornecer amostras de código de áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
