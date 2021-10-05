@@ -20,6 +20,8 @@ Os usuários devem ser capazes de identificar os pontos de interatividade do res
 
 ### Links
 
+- GitHub Pages [Minha Solução para o Desafio](https://andremksdev.github.io/challenge_001_orderSummary/)
+
 ## Meu processo
 
 ### Construído com:
