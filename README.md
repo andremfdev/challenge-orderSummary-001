@@ -47,7 +47,7 @@ In the end, users must be able to:
 <hr>
 Project layout provided by the frontend through PNG image. All the grid detail was developed by me using metric tools in <a href="https://www.figma.com"><strong>FIGMA</strong></a> itself, as I don't have access to the original material.
 
-obs: To have access to the original layout in FIGMA, the front alteror has a paid subscription.
+obs: To have access to the original layout in FIGMA, the frontendmentor has a paid subscription.
 <br>
 <br>
 <br>
@@ -102,8 +102,8 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 - [x] Desktop version
 - [x] Mobile version
 - [x] Flexbox
-- [x] Responsive
-- [x] Use of ::before
+- [x] Box shadow
+- [x] Use of :hover
 
 <br>
 
@@ -113,7 +113,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 The technologies used for this project were:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [SASS](https://sass-lang.com/documentation)
 
 <br>
 
@@ -125,4 +125,6 @@ The technologies used for this project were:
 
 Made by andremksdev 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
+[![Twitter Badge](https://img.shields.io/badge/andremksdev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/andremksdev/)](https://www.twitter.com/andremksdev/)
+[![Twitter Badge](https://img.shields.io/badge/andremks.dev-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andremks.dev/)](https://www.instagram.com/andremks.dev/)
