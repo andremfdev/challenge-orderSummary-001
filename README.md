@@ -13,6 +13,7 @@
  <a href="#about">About</a> •
  <a href="#layout">Layout</a> •
  <a href="#deploy">Deploy</a> •
+ <a href="#audit">Audit Metrics</a> •
  <a href="#challenges">Challenges</a> •
  <a href="#technologies">Technologies</a> •
  <a href="#autor">Autor</a>
@@ -76,7 +77,7 @@ obs: To have access to the original layout in FIGMA, the frontendmentor has a pa
 
 <br>
 
-<h3 id="deploy"><strong>🔍 Audit metrics - Lighthouse</strong></h3>
+<h3 id="audit"><strong>🔍 Audit metrics - Lighthouse</strong></h3>
 
 <hr>
 
